@@ -25,4 +25,20 @@ Descrição: pagina apresentando os cases e o jogo PHATCH
 Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Se você estiver interessado em conectar-se ou colaborar em projetos, sinta-se à vontade para me contatar através do meu e-mail: Boilingpedro64@gmail.com ou pelas redes sociais: @Britofck 
 
 Vamos construir algo incrível juntos!
-[![pygame](http://img.instagram.com/p/B_LXgD0Hzgx/0.jpg)]((https://www.instagram.com/britofck/)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Tadeu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Tadeu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Tadeu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Tadeu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Tadeu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <!--<img align="center"  alt="Tadeu-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">-->
+  <img align="center"  alt="Tadeu-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+  <!--<img align="center"  alt="Tadeu-Rasberrypi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">-->
+  <img align="center"  alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img align="center"  alt="git logo" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
+  <img align="center"  alt="unity logo" height="30" width="40" src="https://cdn.simpleicons.org/unity/FFFFFF"/>
+  <img align="center"  alt="adobeillustrator logo" height="30" width="40" src="https://skillicons.dev/icons?i=ai"/>
+  <img align="center"  alt="adobephotoshop logo" height="30" width="40"src="https://skillicons.dev/icons?i=ps" height="40"/>
+  <img align="center"  alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg">
+
+</div>
