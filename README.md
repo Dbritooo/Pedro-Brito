@@ -25,3 +25,4 @@ Descrição: pagina apresentando os cases e o jogo PHATCH
 Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Se você estiver interessado em conectar-se ou colaborar em projetos, sinta-se à vontade para me contatar através do meu e-mail: Boilingpedro64@gmail.com ou pelas redes sociais: @Britofck 
 
 Vamos construir algo incrível juntos!
+[![pygame](http://img.instagram.com/p/B_LXgD0Hzgx/0.jpg)]((https://www.instagram.com/britofck/)
